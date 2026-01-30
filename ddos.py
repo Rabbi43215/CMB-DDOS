@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-"""
-☢️ QUANTUM NUCLEAR DDOS v10.0 - TERMUX EDITION
-💀 ALL METHODS COMBINED - NO FAKE - NO SIMULATION
-⚡ 50 MILLION RPS CAPABLE - REAL REQUESTS ONLY
-🌪️ BOTNET MODE WITH SLAVE CONTROLLER
-"""
-
 import os
 import sys
 import socket
